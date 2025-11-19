@@ -1,9 +1,9 @@
-Witaj w dokumentacji
+Strona Główna
 =====================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Spis treści:
+   :caption: Strona Główna:
 
    sprawozdanie
    kontakt
