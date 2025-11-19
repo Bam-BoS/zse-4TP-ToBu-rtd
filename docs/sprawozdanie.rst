@@ -41,7 +41,7 @@ Odnośniki
 ---------
 
 Lokalny: :doc:`kontakt`
-Zewnętrzny: `Google <https://google.com>`_
+Zewnętrzny: `Github <https://github.com/Bam-BoS/zse-4TP-ToBu-rtd>`_
 
 Listy
 -----
@@ -58,8 +58,8 @@ term
 Obraz
 -----
 
-.. image:: obraz.jpg
-   :alt: Opis obrazu
+.. image:: Anta.jpg
+   :alt: Zimno tu panowie
    :width: 400px
 
 Tabela
