@@ -5,6 +5,7 @@ Strona Główna
    :maxdepth: 2
    :caption: Spis Treści:
 
+   index
    sprawozdanie
    kontakt
 
