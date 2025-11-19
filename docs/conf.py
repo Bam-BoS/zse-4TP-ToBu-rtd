@@ -1,6 +1,6 @@
-project = 'Brain-Bad'
-copyright = '2024, Twoje Imię'
-author = 'Twoje Imię'
+project = 'RtD'
+copyright = '2025, Tobiasz Burzynski'
+author = 'Tobiasz Burzynski'
 
 extensions = []
 html_theme = 'sphinx_rtd_theme'
