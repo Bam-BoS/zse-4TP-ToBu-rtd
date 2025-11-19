@@ -61,6 +61,7 @@ Obraz
 .. image:: Anta.jpg
    :alt: Zimno tu panowie
    :width: 400px
+   :caption: To jest podpis pod obrazkiem
 Kowalski analiza
 
 Tabela
