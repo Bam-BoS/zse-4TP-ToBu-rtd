@@ -5,14 +5,14 @@ Nagłówki
 --------
 
 
-   Poziom 1
-   ========
-   Poziom 2
-   --------
-   Poziom 3
-   ~~~~~~~~
-   Poziom 4
-   ^^^^^^^^
+Poziom 1
+========
+Poziom 2
+--------
+Poziom 3
+~~~~~~~~
+Poziom 4
+^^^^^^^^
 
 
 Akapit tekstowy
