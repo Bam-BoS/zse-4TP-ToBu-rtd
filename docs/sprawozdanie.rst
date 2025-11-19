@@ -4,14 +4,15 @@ Sprawozdanie RtD - Składnia RST
 Nagłówki
 --------
 
-Poziom 1
-========
-Poziom 2
---------
-Poziom 3
-~~~~~~~~
-Poziom 4
-^^^^^^^^
+.. note::
+   Poziom 1
+   ========
+   Poziom 2
+   --------
+   Poziom 3
+   ~~~~~~~~
+   Poziom 4
+   ^^^^^^^^
 
 Akapit tekstowy
 ---------------
