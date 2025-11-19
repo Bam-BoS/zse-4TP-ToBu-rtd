@@ -3,9 +3,9 @@ Strona Główna
 
 .. toctree::
    :maxdepth: 2
-   :caption: Strona Główna:
+   :caption: Spis Treści:
 
    sprawozdanie
    kontakt
 
-To jest strona główna dokumentacji.
+To jest strona główna dokumentacji RtD.
