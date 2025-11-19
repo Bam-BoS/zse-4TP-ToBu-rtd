@@ -4,7 +4,7 @@ Sprawozdanie RtD - Składnia RST
 Nagłówki
 --------
 
-.. note::
+
    Poziom 1
    ========
    Poziom 2
