@@ -1,5 +1,5 @@
 Kontakt
 =======
 
-**Imię i Nazwisko:** [Tobiasz Burzynski]
-**Klasa:** [4TP]
+**Imię i Nazwisko:** Tobiasz Burzynski
+**Klasa:** 4TP
