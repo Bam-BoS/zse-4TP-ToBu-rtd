@@ -60,8 +60,8 @@ Obraz
 
 .. image:: Anta.jpg
    :alt: Zimno tu panowie
-   :caption: Kowalski analiza
    :width: 400px
+Kowalski analiza
 
 Tabela
 ------
